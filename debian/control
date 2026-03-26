@@ -1,7 +1,7 @@
 Source: {{PROJECT_NAME}} 
 Section: utils
 Priority: optional
-Maintainer: LliureX Team <<lliurex@gva.es>> 
+Maintainer: LliureX Team <lliurex@gva.es> 
 Rules-Requires-Root: no
 Build-Depends:
  debhelper-compat (= 13),
