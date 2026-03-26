@@ -1,0 +1,5 @@
+{{PROJECT_NAME}} (0.1) {{RELEASE}}; urgency=low
+
+  * Initial release.
+
+ -- {{MAINTAINER_NAME}} <{{MAINTAINER_EMAIL}}>  {{RELEASE_DATE}}

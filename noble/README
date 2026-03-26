@@ -1,0 +1,6 @@
+The Debian Package {{PROJECT_NAME}}
+----------------------------
+
+<Comments regarding the Package.>
+
+ -- {{MAINTAINER_NAME}} <{{MAINTAINER_EMAIL}}> {{RELEASE_DATE}}
