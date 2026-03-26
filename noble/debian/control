@@ -8,7 +8,7 @@ Build-Depends:
 Standards-Version: 4.6.2
 Homepage: https://portal.edu.gva.es/lliurex/va
 #Vcs-Browser: https://salsa.debian.org/debian/prueba
-Vcs-Git: {{REPO_URL}} 
+Vcs-Git: {{REPOSITORY_URL}} 
 
 Package: {{PROJECT_NAME}}
 Architecture: all
