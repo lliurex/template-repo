@@ -1,16 +1,14 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Source: {{REPO_URL}}
 Upstream-Name: {{PROJECT_NAME}}
 Upstream-Contact: lliurex@gva.es  
+Source: {{REPO_URL}}
 
-Files:
- *
+Files: *
 Copyright:
  {{RELEASE_YEAR}} {{MAINTAINER_NAME}} <{{MAINTAINER_EMAIL}}>
 License: GPL-3.0+
 
-Files:
- debian/*
+Files: debian/*
 Copyright:
  {{RELEASE_YEAR}} {{MAINTAINER_NAME}} <{{MAINTAINER_EMAIL}}>
 License: GPL-3.0+
@@ -28,7 +26,7 @@ License: GPL-3.0+
  .
  You should have received a copy of the GNU General Public License
  along with this program. If not, see <https://www.gnu.org/licenses/>.
-Comment:
+ .
  On Debian systems, the complete text of the GNU General
  Public License version 3 can be found in "/usr/share/common-licenses/GPL-3".
 
