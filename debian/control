@@ -1,7 +1,7 @@
 Source: {{PROJECT_NAME}} 
 Section: utils
 Priority: optional
-Maintainer: LliureX Team <<lliurex@gva.es>> 
+Maintainer: LliureX Team <lliurex@gva.es> 
 Rules-Requires-Root: no
 Build-Depends: debhelper-compat (= 13)
 Standards-Version: 4.6.0
@@ -11,7 +11,6 @@ Vcs-Git: {{REPOSITORY_URL}}
 
 Package: {{PROJECT_NAME}}
 Architecture: all
-Multi-Arch: foreign
 Depends:
  ${shlibs:Depends},
  ${misc:Depends},
